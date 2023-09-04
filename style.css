@@ -1,0 +1,75 @@
+html {
+  font-family: arial;
+  background-color: black;
+  color: cyan;
+}
+marquee {
+  color: cyan;
+  font-family: Arial;
+}
+#JawabanAkhir {
+  text-align: center;
+}
+a {
+  color: cyan;
+  text-decoration: none;
+}
+
+.Judul {
+  text-align: center;
+}
+.Aritmatika,
+.Geometri {
+  /* display: inline-block; */
+  border: 3px solid cyan;
+  /* width: 200px; */
+  /* height: 100px; */
+  line-height: 10px;
+  text-align: center;
+  position: center;
+  border-radius: 20px;
+}
+
+div {
+  text-align: center;
+}
+
+h3,
+h4 {
+  text-align: center;
+}
+.JawabanAritmatika,
+.JawabanGeometri {
+  text-align: center;
+}
+button {
+  font-size: 20px;
+  background-color: black;
+  color: cyan;
+  border-radius: 20px;
+  font-family: cursive;
+}
+
+button:active {
+  background: white;
+  color: black;
+}
+
+input {
+  background-color: black;
+  color: cyan;
+  border-radius: 20px;
+  width: 50px;
+}
+
+.superscript {
+  vertical-align: super;
+  font-size: smaller;
+}
+
+img {
+  width: 100%;
+  max-width: 200px;
+  height: auto;
+  width: auto;
+}
